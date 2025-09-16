@@ -1,0 +1,11 @@
+# %%writefile requirements.txt
+python-dotenv
+openai
+anthropic
+sendgrid
+pydantic
+ipython
+google-generativeai
+# This is a placeholder for the custom agents library used in the notebook
+# In a real project, you would replace this with the actual package name
+# custom-agents-library
