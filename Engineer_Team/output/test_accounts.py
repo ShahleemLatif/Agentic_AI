@@ -1,0 +1,1 @@
+Use the provided Python code as the content for `test_accounts.py`, ensuring it's saved in the same directory as your `accounts.py` to conduct successful unit testing.
